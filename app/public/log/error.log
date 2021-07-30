@@ -1,0 +1,74 @@
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Notice:  Undefined property: stdClass::$items in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:28:20 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Notice:  Trying to get property 'volumeInfo' of non-object in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:28:20 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Notice:  Trying to get property 'description' of non-object in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:28:20 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:28:20 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Notice:  Undefined property: stdClass::$items in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:30:06 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Notice:  Trying to get property 'volumeInfo' of non-object in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:30:06 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Notice:  Trying to get property 'description' of non-object in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php on line 55
+[05-Aug-2019 23:30:06 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:30:06 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\teamGMD.php:0
+[05-Aug-2019 23:34:44 America/Vancouver] PHP Notice:  Undefined index: userId in C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\GroupProject-postReview.php on line 58
+[05-Aug-2019 23:34:44 America/Vancouver] PHP Stack trace:
+[05-Aug-2019 23:34:44 America/Vancouver] PHP   1. {main}() C:\Users\Darren\Google Drive\School\Courses\Summer 2019\CSIS 3280\Group Project\updatedProject\GroupProject_GMD\GroupProject-postReview.php:0
+[06-Aug-2019 00:00:03 America/Vancouver] Api not working
+[06-Aug-2019 00:03:15 America/Vancouver] Api not working
+[06-Aug-2019 00:03:23 America/Vancouver] Api not working
+[12-Jul-2021 13:02:17 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:17 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:23 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:23 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:25 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:25 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:27 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:27 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:36 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:36 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:39 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:39 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:41 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 13:02:41 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[12-Jul-2021 20:27:02 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:27:12 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:27:22 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:27:32 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:27:48 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:27:58 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:38:24 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:38:34 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:38:44 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[12-Jul-2021 20:38:54 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[29-Jul-2021 17:24:13 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:24:13 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:08 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:08 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:10 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:10 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:13 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:13 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:22 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:25:22 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:27:40 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:27:40 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:30:56 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:30:56 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:30:58 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:30:58 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:31:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:31:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:36:54 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:36:54 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:37:43 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:37:43 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:38:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:38:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
