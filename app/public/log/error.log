@@ -72,3 +72,15 @@
 [29-Jul-2021 17:38:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
 [29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
 [29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[30-Jul-2021 02:04:42 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[30-Jul-2021 02:04:52 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[30-Jul-2021 02:05:11 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[30-Jul-2021 02:05:21 America/Vancouver] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[31-Jul-2021 03:00:48 America/Vancouver] could not find driver
+[31-Jul-2021 03:00:48 America/Vancouver] could not find driver
+[31-Jul-2021 03:02:17 America/Vancouver] could not find driver
+[31-Jul-2021 03:02:17 America/Vancouver] could not find driver
+[31-Jul-2021 03:13:26 America/Vancouver] could not find driver
+[31-Jul-2021 03:13:26 America/Vancouver] could not find driver
+[31-Jul-2021 03:15:46 America/Vancouver] could not find driver
+[31-Jul-2021 03:15:46 America/Vancouver] could not find driver

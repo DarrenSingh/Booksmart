@@ -1,7 +1,12 @@
-FROM php:apache
+# Dockerfile
+
+FROM php:7.4-apache
+
+COPY 000-default.conf /etc/apache2/sites-available/000-default.conf
+COPY start-apache /usr/local/bin
 
 RUN docker-php-ext-install pdo pdo_mysql
 
-RUN pecl install xdebug && docker-php-ext-enable xdebug
+COPY app/public /var/www/html
 
-COPY .app/public /var/www/html
+CMD ["start-apache"]

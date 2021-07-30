@@ -1,3 +1,5 @@
 build:
   docker:
-    web: PHP.dockerfile
+    web: Dockerfile
+  volumes:
+    - ./app/public:/var/www/html
