@@ -7,6 +7,7 @@ class PDOAgent  {
     private $user = DB_USER;
     private $password = DB_PASS;
     private $dbname = DB_NAME;
+  
 
     private $dsn = "";          //Data Source Name
     private $className = "";    //Name of the class we are mapping with this PDO Agent
@@ -21,7 +22,7 @@ class PDOAgent  {
             $this->className = $className;
 
             //Build the DSN
-            $this->dsn = 'mysql:host='. $this->host .';dbname='.$this->dbname;
+            $this->dsn = 'mysql:'.'host='. $this->host .';dbname='.$this->dbname;
             //set PDO options
             $options = array(
                 PDO::ATTR_PERSISTENT => true,
@@ -33,8 +34,8 @@ class PDOAgent  {
                 $this->pdo = new PDO($this->dsn, $this->user, $this->password, $options);
             } catch (PDOException $ex) {
                 $this->error .= $ex->getMessage();
-                echo "Error Accessing Database: ".$this->error;
-                error_log($this->error,0);
+                echo "Internal Database Error";
+                error_log("Error Accessing Database: ".$this->error,0);
                 
         }
     }

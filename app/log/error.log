@@ -72,3 +72,34 @@
 [29-Jul-2021 17:38:03 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
 [29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
 [29-Jul-2021 17:38:28 America/Vancouver] SQLSTATE[HY000] [2002] No such file or directory
+[30-Jul-2021 16:07:21 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:21 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:24 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:24 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:26 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:26 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:28 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:28 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:58 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:58 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:59 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:07:59 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:10:42 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:10:42 America/Vancouver] SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:11:46 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:11:46 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:11:57 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:11:57 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:12:06 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:12:06 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:18 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:26 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:52 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:52 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:54 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:13:54 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:55:01 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:55:01 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:55:06 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:55:07 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused
+[30-Jul-2021 16:55:07 America/Vancouver] Error Accessing Database: SQLSTATE[HY000] [2002] Connection refused

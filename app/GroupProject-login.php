@@ -59,12 +59,11 @@ if (isset($_POST['username'])) {
             exit;
 
         } else {
-            $message[] = "Incorrect Password";
+            $message[] = "Incorrect authentication credentials";
         }
 
     } else {
-        $message[] = "We could not find any user with those details.";
-        $message[] = "Please check the ";
+        $message[] = "Incorrect authentication credentials";
     }
 }
 

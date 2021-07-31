@@ -41,7 +41,7 @@ class Page {
                 <i class='fas fa-user mx-2 text-warning'></i>".$_SESSION['username'].
                 "</a>
                 <div class='dropdown-menu w-75' aria-labelledby='navbarDropdown'>
-                  <a class='dropdown-item text-left' href='#'><i class='fas fa-cog pr-2'></i>Edit Profile</a>
+                  
                   <div class='dropdown-divider'></div>
                   <a class='dropdown-item text-left' href='GroupProject-logout.php?location=".urlencode($_SERVER['REQUEST_URI'])."'><i class='fas fa-sign-out-alt pr-2'></i>Logout</a>
                 </div>
@@ -182,7 +182,7 @@ class Page {
                 //display table heading
                 echo "<br>";
                 echo "<div class='card bg-transparent border border-0 shadow justify-content-center'>";
-                echo "<table class='table table-hover'>";
+                echo "<table class='table'>";
                 echo "<thead class='table-dark'>";
                 echo "<tr>";
                 echo "<th scope='col' class='pl-3'>Title</th>";
